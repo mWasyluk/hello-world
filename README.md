@@ -1,2 +1,2 @@
 # hello-world
-Hello world present
+This commit message is just for a test.
